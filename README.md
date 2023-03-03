@@ -1,3 +1,22 @@
+# T2-[FE]-Slice Footer-Achmad Maulana Achsan
+
+## About Project
+slicing footer website
+
+## Live Demo
+
+Here is a working live demo : https://tugas-dua-footer.netlify.app/
+
+## Language and Tools
+
+1. React Js
+2. Tailwind CSS
+3. Daisy UI
+4. VS Code
+5. React Icon
+6. Netlify
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
